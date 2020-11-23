@@ -14,7 +14,7 @@
      width="30px"/>
 </a>
 
-<a href="carolcastro086@gmail.com">
+<a href="mailto:carolcastro086@gmail.com">
  <img src = "https://user-images.githubusercontent.com/48016467/100015401-ab874980-2db6-11eb-8b21-4e09e7cc79d1.png" 
      alt = "Gmail"
      width="30px"/>
@@ -32,7 +32,7 @@
      width="30px"/>
 </a>
 
-<a href="carolinacoliveira@outlook.com">
+<a href="mailto:carolinacoliveira@outlook.com">
  <img src = "https://user-images.githubusercontent.com/48016467/100015407-ae823a00-2db6-11eb-9946-7f1f6cb1c1fa.png" 
      alt = "Email"
      width="30px"/>
