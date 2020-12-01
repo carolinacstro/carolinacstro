@@ -24,17 +24,6 @@
      width="30px"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511953061505">
- <img src = "https://user-images.githubusercontent.com/48016467/100026293-4db02d00-2dc9-11eb-9da8-dc81c5f39983.png" 
-     alt = "WhatsApp"
-     width="30px"/>
-</a>
-
-<a href="https://www.instagram.com/caolivc/">
- <img src = "https://user-images.githubusercontent.com/48016467/100026288-4d179680-2dc9-11eb-846f-fe22c3a9fb0a.png" 
-     alt = "Instagram"
-     width="30px"/>
-</a>
 
 <a href="mailto:carolinacoliveira@outlook.com">
  <img src = "https://user-images.githubusercontent.com/48016467/100026291-4db02d00-2dc9-11eb-80b4-a77d7969098f.png" 
