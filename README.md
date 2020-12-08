@@ -1,4 +1,4 @@
-# Hi! I'm Carolina <img src="https://user-images.githubusercontent.com/48016467/100021766-c19a0780-2dc0-11eb-8e7d-4628b7000e7b.gif" width="50" height="50" />
+# Hi! I'm Carolina <img src="https://user-images.githubusercontent.com/48016467/101523080-dfda3880-3966-11eb-91b6-7aeadee01657.gif" width="50" height="50" />
 
 
 - :computer: Currently studying Computer Science at UAM
