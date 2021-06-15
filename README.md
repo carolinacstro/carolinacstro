@@ -1,10 +1,10 @@
 # Hi! I'm Carolina <img src="https://user-images.githubusercontent.com/48016467/101523080-dfda3880-3966-11eb-91b6-7aeadee01657.gif" width="50" height="50" />
 
 
-- :computer: Currently studying Computer Science at UAM
-- 🌱 JavaScript
-- :cherry_blossom: Passionate about studies!
-- :zap: Fun fact: I :heart: cats
+- :computer:  Currently studying Computer Science at UAM
+- 🌱  JavaScript
+- :cherry_blossom:  Passionate about studies!
+- :zap: Fun fact:  I :heart: cats
 
 
 
