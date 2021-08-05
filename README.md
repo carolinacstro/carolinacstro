@@ -2,7 +2,7 @@
 
 
 - :computer:  Currently studying Computer Science at UAM
-- 🌱  JavaScript
+- 🌱  JavaScript and Ruby
 - :cherry_blossom:  Passionate about studies!
 - :zap: Fun fact:  I :heart: cats
 
