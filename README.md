@@ -2,7 +2,7 @@
 
 
  -  Currently studying Computer Science at UAM 
- -  Java
+ -  Learning java
  -  Passionate about studies! 
  -  Fun fact:  I love cats 
 
