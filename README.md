@@ -12,8 +12,8 @@
 <div>
  
   <a href="https://github.com/carolinacstro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinacstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacstro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolinacstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacstro&layout=compact&langs_count=7&theme=dracula"/>
    
 </div>
 
@@ -32,7 +32,6 @@
      alt = "Gmail"
      width="50px"/>
 </a>
-
 
 <a href="mailto:carolinacoliveira@outlook.com">
  <img src = "https://user-images.githubusercontent.com/48016467/100026291-4db02d00-2dc9-11eb-80b4-a77d7969098f.png" 
